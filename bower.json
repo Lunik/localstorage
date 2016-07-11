@@ -1,0 +1,18 @@
+{
+  "name": "localstorage",
+  "homepage": "https://github.com/Lunik/localstorage",
+  "authors": [
+    "Lunik <guillaume.lunik@gmail.com>"
+  ],
+  "description": "LocalStorage simple JS API",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "version": "1.0.0"
+}
